@@ -9,4 +9,4 @@ Folders:
 - "R functions" are functions that are called from the "All data extract" scripts. 
 - "Change point master" contains functions that apply to the calculation of a behavioral Change Point.
 
-Contact me for help: mvegavillar@gradcenter.cuny.edu.
+Contact me for help.
